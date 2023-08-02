@@ -8,7 +8,7 @@ This repository contains the assignment that is made during the learning process
 At the end  i have created a function Assert whose task is to verify is the transaction is reverted due to insufficient funds is true or not.
 
 Statements: 
-1.   _require()
+1.   require()
    
          require(msg.sender == Address, "Only the owner can withdraw");
 
@@ -20,7 +20,7 @@ Statements:
 
   3.    assert()
   
-            assert(AvailableBalance < Amount);_
+            assert(AvailableBalance < Amount);
 
 
 ### Link of Assignment  
