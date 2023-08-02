@@ -24,7 +24,7 @@ Statement:
 
 
 ### Link of Assignment  
-* [Functions and Errors (Module_1.sol)](https://github.com/21bcs10985/ETH-AVAX-PROOF-Intermediate-EVM-Course/blob/main/Module_1.sol)
+* [Functions and Errors (Module_1.sol)](https://github.com/21bcs10985/-Functions-and-Errors---ETH-AVAX/blob/main/FunctionAndError.sol)
 
 
 ## Getting Started
