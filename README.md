@@ -7,7 +7,7 @@ The project that Metacrafters have assigned in the Blockchain course.
 This repository contains the assignment that is made during the learning process of blockchain. In this assignment, I have been given a task to write a smart contract that has the implementation of all three Error management statements Require(), Revert(), and Assert(). To meet all the requirements I have created a smart contract  FunctionAndError, Inside that i have created a function SetValue which takes the input from the user and then stores it as the owner and its initial value. After the value has been assigned to the variable next i have created another function Withdrew which has Require() statement whose task is to check the user who is trying to access the account is the owner or not if yes then proceed otherwise reverse the transaction and then i have written an if-else statement which is checks for funds available or not if funds are not available then the transaction is reverted.
 At the end  i have created a function Assert whose task is to verify is the transaction is reverted due to insufficient funds is true or not.
 
-Statement: 
+Statements: 
 1.   _require()
    
          require(msg.sender == Address, "Only the owner can withdraw");
@@ -20,7 +20,7 @@ Statement:
 
   3.    assert()
   
-          assert(AvailableBalance < Amount);_
+            assert(AvailableBalance < Amount);_
 
 
 ### Link of Assignment  
